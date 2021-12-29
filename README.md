@@ -12,13 +12,13 @@ Knock me: m.facebook.com/tutul.qcsc
 Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
  
 
-- 🔭 I’m currently working on [Hablu Programmer Team](https://habluprogrammer.com/)
+- 🔭 I’m currently working on [Hablu Programmer Team](https://www.youtube.com/habluprogrammer1/)
 
 - 🌱 I’m currently learning **JS, Python, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
 
-- 📝 I regularly write articles on [https://habluprogrammer.com/](https://habluprogrammer.com/)
+- 📝 I regularly write articles on [https://www.youtube.com/habluprogrammer1/](https://www.youtube.com/habluprogrammer1/)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
