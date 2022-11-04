@@ -5,9 +5,10 @@
 <h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
 
-<div align="center">
 ![Profile views](https://gpvc.arturio.dev/harun181) 
 
+<div align="center">
+ 
 Welcome to my GitHub profile. I am the founder of Learn With Tutul. 
 Knock me: m.facebook.com/tutul.qcsc
 
@@ -58,7 +59,9 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 </p>
 
 <div align="center">
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harun181&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
  
 ## Github Stats  
