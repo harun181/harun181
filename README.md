@@ -5,10 +5,10 @@
 <h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
 
+<div align="center">
+
 ![Profile views](https://gpvc.arturio.dev/harun181) 
 
-<div align="center">
- 
 Welcome to my GitHub profile. I am the founder of Learn With Tutul. 
 Knock me: m.facebook.com/tutul.qcsc
 
