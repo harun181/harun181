@@ -54,8 +54,31 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harun181)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harun181&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=harun181&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=harun181)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harun181)  
+## Github Stats  
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harun181&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harun181&theme=dark&hide_border=true" />
+</div>
+
+<br/>
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harun181&bg_color=ffffff&color=777777&line=E44536&point=E44536&area=true&hide_border=true)](https://github.com/harun181/github-readme-activity-graph)
+
+<br/>
+
+## Connect with me  
+<div align="center">
+<br/>
+<a href="https://twitter.com/tutul181" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
+</a>
+<a href="https://www.linkedin.com/in/harun181/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
+</a>
+<a href="https://www.facebook.com/tutul.qcsc" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
+</a>  
+</div>
