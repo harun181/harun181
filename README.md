@@ -73,8 +73,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 <br/>
 
-[![GitHub Activity Graph]
-(https://github-readme-activity-graph.cyclic.app/graph?username=harun181&theme=merko)](https://github.com/harun181/github-readme-activity-graph)
+[![Harun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=harun181&theme=dracula)](https://github.com/harun181/github-readme-activity-graph)
 
 
 <br/>
