@@ -15,9 +15,6 @@
 
 
 
-Welcome to my GitHub profile. I am the Co-Founder of Hablu Programmer. 
-Knock me: m.facebook.com/tutul181
-
 Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 </div>
 
