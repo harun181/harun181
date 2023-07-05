@@ -2,20 +2,26 @@
 ![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
 
 
+## Header
 <h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
+<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
 
 <div align="center">
 
-![Profile views](https://gpvc.arturio.dev/harun181) 
+## Profile View
 
+![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red) 
+
+
+## Body
 Welcome to my GitHub profile. I am the Co-Founder of Hablu Programmer. 
-Knock me: m.facebook.com/tutul.qcsc
+Knock me: m.facebook.com/tutul181
 
 Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 </div>
 
-- 🔭 I’m currently working on [Weblitical](https://www.weblitical.com/)
+- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
 
 - 🌱 I’m currently learning Golang, Java, C++
 
@@ -25,14 +31,14 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **harun181@email.com**
+- 📫 How to reach me **programmerharun@gmail.com**
 
-- 📄 All About Me:[https://linktr.ee/tutul181](https://linktr.ee/tutul181)
+- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://fb.com/tutul.qcsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="30" width="40" /></a>
+<a href="https://fb.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
 <a href="https://codepen.io/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harun181" height="30" width="40" /></a>
@@ -73,7 +79,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 <br/>
 
-[![Harun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=harun181&theme=merko)](https://github.com/harun181/github-readme-activity-graph)
+[![Harun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harun181&theme=merko)](https://github.com/harun181/github-readme-activity-graph)
 
 
 <br/>
@@ -87,7 +93,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 <a href="https://www.linkedin.com/in/harun181/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
-<a href="https://www.facebook.com/tutul.qcsc" target="_blank">
+<a href="https://www.facebook.com/tutul181" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
 </a>  
 </div>
