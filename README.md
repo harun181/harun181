@@ -97,8 +97,6 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 <br/>
 
-[![Harun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harun181&layout=compact)](https://github.com/harun181/harun181)
-
 <br/>
 
 ## Connect with me
