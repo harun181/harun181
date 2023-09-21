@@ -62,7 +62,10 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 </p>
 
 <div align="center">
- 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harun181&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harun181&theme=dark&hide_border=true" />
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harun181&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
@@ -70,11 +73,6 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 ## Github Stats  
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harun181&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harun181&theme=dark&hide_border=true" />
-</div>
-
-<br/>
 
 [![Harun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harun181&theme=merko)](https://github.com/harun181/github-readme-activity-graph)
 
