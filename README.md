@@ -14,13 +14,13 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning Golang, Java, C++
+- 🌱 I’m currently learning Golang, C++
 
 - 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
 
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
+- 📝 I regularly write articles on [https://medium.com/@codiiz](https://medium.com/@codiiz)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, TailwindCSS, ReactJS, NextJS**
 
 - 📫 How to reach me **programmerharun@gmail.com**
 
